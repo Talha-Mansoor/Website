@@ -8,7 +8,7 @@ const projects = [
         Bank of Canada <br /> Governor's Challenge
       </>
     ),
-    description: "Part of the official university team for the 2024 Governor's Challenge",
+    description: "Presentation analyzing population growth & interest rate, using forecasting models & macroeconomic data.",
     image: "/projects/BOC2.png",
     tags: ["Excel", "Eviews", "Data Analysis"],
     demoUrl: "https://rigorous-schooner-9cf.notion.site/Bank-of-Canada-Governor-s-Challenge-2024-267e78375a6a8033ba2cf845814dfb18?pvs=143",
@@ -16,7 +16,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "Library Database WebApp",
+    title: "Library Database Management WebApp",
     description:
       "Co-Developed Library Database Management Webapp using Python, React and SQL",
     image: "/projects/library.png",
@@ -26,12 +26,43 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Famous Algorithms",
     description:
       "Full-featured e-commerce platform with user authentication and payment processing.",
     image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
+    tags: ["Research", "Data Analysis"],
     demoUrl: "#",
+    githubUrl: "#",
+  },
+
+   {
+    id: 4,
+    title: "BRICS Presentation",
+    description:
+      "Group presentation on the how likely is a BRICS dominance in the global order.",
+    image: "/projects/brics.png",
+    tags: ["Research", "Data Analysis"],
+    demoUrl: "https://docs.google.com/presentation/d/1B95MPz51IzLmfek_QeoGVUL8uaj1ckFyfCQDWPhclRs/edit?usp=sharing",
+    githubUrl: "#",
+  },
+   {
+    id: 4,
+    title: "AI/ML Projects",
+    description:
+      "University Assignments and Hobby Projects using AI and ML techniques.",
+    image: "/projects/brics.png",
+    tags: ["Python", "Regression"],
+    demoUrl: "https://docs.google.com/presentation/d/1B95MPz51IzLmfek_QeoGVUL8uaj1ckFyfCQDWPhclRs/edit?usp=sharing",
+    githubUrl: "#",
+  },
+   {
+    id: 4,
+    title: "GUI",
+    description:
+      "University Assignments and Hobby Projects using AI and ML techniques.",
+    image: "/projects/brics.png",
+    tags: ["Python", "Regression"],
+    demoUrl: "https://docs.google.com/presentation/d/1B95MPz51IzLmfek_QeoGVUL8uaj1ckFyfCQDWPhclRs/edit?usp=sharing",
     githubUrl: "#",
   },
 ];
