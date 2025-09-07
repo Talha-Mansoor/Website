@@ -77,11 +77,6 @@ npm run dev
 
 Your app will be available at: [http://localhost:5173](http://localhost:5173)
 
----
-
-## 🖼️ Screenshots
-
-> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
 
 ---
 
@@ -93,8 +88,6 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 2. Go to [vercel.com](https://vercel.com)
 3. Import your repository
 4. Click **Deploy**
-
-Your live website will be hosted on a custom subdomain (e.g. `https://your-name.vercel.app`)
 
 ---
 
