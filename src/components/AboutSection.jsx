@@ -16,16 +16,12 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+             I’m a fourth-year Economics and Computer Science student at the University of Saskatchewan, currently working as an LMS Consultant at SIIT. I bring curiosity, adaptability, 
+             and a drive to learn into every project I take on. 
             </p>
 
             <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
-              landscape.
+              Whether it’s technology, data, or problem-solving, I focus on growing my skills while delivering real results.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -38,7 +34,7 @@ export const AboutSection = () => {
                 href=""
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
-                Download CV
+                Download Resume
               </a>
             </div>
           </div>
