@@ -12,16 +12,14 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Web Developer & Tech Creator
+              Passionate about Data and Story-Telling
             </h3>
 
             <p className="text-muted-foreground">
-             I’m a fourth-year Economics and Computer Science student at the University of Saskatchewan, currently working as an LMS Consultant at SIIT. I bring curiosity, adaptability, 
-             and a drive to learn into every project I take on. 
-            </p>
-
+             I’m a fourth-year Economics and Computer Science student at the University of Saskatchewan, currently working as an LMS Consultant at the Saskatchewan Indian Institute of Technologies. 
+             </p>
             <p className="text-muted-foreground">
-              Whether it’s technology, data, or problem-solving, I focus on growing my skills while delivering real results.
+              I support technical development and LMS integration on training programs delivered in partnership with local firms and multinational corporations across sectors such as aviation, mining, agrifood processing, and carpentry. Whether it’s technology, data, or problem-solving, I focus on growing my skills while delivering results.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -43,13 +41,25 @@ export const AboutSection = () => {
             <div className="gradient-border p-6 card-hover">
               <div className="flex items-start gap-4">
                 <div className="p-3 rounded-full bg-primary/10">
+                  <Briefcase className="h-6 w-6 text-primary" />
+                </div>
+                <div className="text-left">
+                  <h4 className="font-semibold text-lg"> Economics (4th year)</h4>
+                  <p className="text-muted-foreground">
+                    Studying microeconomics, macroeconomics, econometrics, and economic forecasting. Developed models to analyze labor markets, inflation trends, and GDP projections using tools like EViews and Excel.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="gradient-border p-6 card-hover">
+              <div className="flex items-start gap-4">
+                <div className="p-3 rounded-full bg-primary/10">
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Web Development</h4>
+                  <h4 className="font-semibold text-lg">Computer Science (3rd year)</h4>
                   <p className="text-muted-foreground">
-                    Creating responsive websites and web applications with
-                    modern frameworks.
+                    Studying algorithms, OOP, GUI, AI/ML and software development.
                   </p>
                 </div>
               </div>
@@ -59,26 +69,11 @@ export const AboutSection = () => {
                 <div className="p-3 rounded-full bg-primary/10">
                   <User className="h-6 w-6 text-primary" />
                 </div>
-                <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
-                  <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="gradient-border p-6 card-hover">
-              <div className="flex items-start gap-4">
-                <div className="p-3 rounded-full bg-primary/10">
-                  <Briefcase className="h-6 w-6 text-primary" />
-                </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg">Google Data Analytics Certificate</h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
+                    Learnt data cleaning, analysis, and visualization using SQL, R, and Tableau. Real-world case studies and business decision-making through data storytelling.
                   </p>
                 </div>
               </div>
