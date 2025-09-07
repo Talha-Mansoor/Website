@@ -101,5 +101,3 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 * [Vercel](https://vercel.com/)
 
 ---
-
-Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
