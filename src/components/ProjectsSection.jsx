@@ -52,7 +52,7 @@ const projects = [
       "University Assignments and Hobby Projects using AI and ML techniques.",
     image: "/projects/Normdist_regression.png",
     tags: ["Python", "Regression"],
-    demoUrl: "https://docs.google.com/presentation/d/1B95MPz51IzLmfek_QeoGVUL8uaj1ckFyfCQDWPhclRs/edit?usp=sharing",
+    demoUrl: "https://github.com/Talha-Mansoor/AI-and-ML",
     githubUrl: "#",
   },
    {
@@ -62,7 +62,7 @@ const projects = [
       "Using Model View Controller methodology to create an interactive particle simulation",
     image: "/projects/gui.jpg",
     tags: ["Python", "Regression"],
-    demoUrl: "https://docs.google.com/presentation/d/1B95MPz51IzLmfek_QeoGVUL8uaj1ckFyfCQDWPhclRs/edit?usp=sharing",
+    demoUrl: "https://github.com/Talha-Mansoor/GUI",
     githubUrl: "#",
   },
 ];
