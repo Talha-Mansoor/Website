@@ -26,12 +26,12 @@ const projects = [
   },
   {
     id: 3,
-    title: "Famous Algorithms",
+    title: "Algorithms and Data Structures",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
+      "Linked Lists, Trees, Stacks, Queues, Recursion, Backtracking and more made in Python and Java.",
+    image: "/projects/algos.jpg",
     tags: ["Research", "Data Analysis"],
-    demoUrl: "#",
+    demoUrl: "https://github.com/Talha-Mansoor/Algorithms-and-Data-Structures",
     githubUrl: "#",
   },
 
@@ -50,17 +50,17 @@ const projects = [
     title: "AI/ML Projects",
     description:
       "University Assignments and Hobby Projects using AI and ML techniques.",
-    image: "/projects/brics.png",
+    image: "/projects/Normdist_regression.png",
     tags: ["Python", "Regression"],
     demoUrl: "https://docs.google.com/presentation/d/1B95MPz51IzLmfek_QeoGVUL8uaj1ckFyfCQDWPhclRs/edit?usp=sharing",
     githubUrl: "#",
   },
    {
     id: 4,
-    title: "GUI",
+    title: "JavaFx MVC",
     description:
-      "University Assignments and Hobby Projects using AI and ML techniques.",
-    image: "/projects/brics.png",
+      "Using Model View Controller methodology to create an interactive particle simulation",
+    image: "/projects/gui.jpg",
     tags: ["Python", "Regression"],
     demoUrl: "https://docs.google.com/presentation/d/1B95MPz51IzLmfek_QeoGVUL8uaj1ckFyfCQDWPhclRs/edit?usp=sharing",
     githubUrl: "#",

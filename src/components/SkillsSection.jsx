@@ -15,6 +15,8 @@ const skills = [
   { name: "JavaScript", level: 90, category: "Programming" },
   { name: "React", level: 90, category: "Programming" },
   { name: "Java", level: 95, category: "Programming" },
+  { name: "C", level: 95, category: "Programming" },
+  { name: "Canva", level: 80, category: "tools" },
 
 
   // Tools
